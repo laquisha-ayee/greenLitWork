@@ -1,6 +1,6 @@
 # GreenLit Practice Repository
 
-Welcome to my weekly practice repository for the GreenLit curriculum at App Academy. This space documents my ongoing technical growth as a full-stack software engineer, with a focus on clean architecture, scalable backend services, and disciplined deployment workflows.
+This is where I share my weekly practice work for the GreenLit program at App Academy. I really enjoy coding every day, and this repo helps me stay consistent while learning how to build clean, reliable web applications from both the frontend and backend.
 
 ## Folder Structure
 
